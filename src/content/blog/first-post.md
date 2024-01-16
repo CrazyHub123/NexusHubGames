@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+title: 'Anime Punch Sim,ulator'
+description: 'Game For NexusHub.'
 pubDate: 'Jul 08 2022'
 heroImage: '/blog-placeholder.jpg'
 categories: ['first']
