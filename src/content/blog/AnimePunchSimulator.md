@@ -1,8 +1,8 @@
 ---
-title: 'Anime Punch Sim,ulator'
+title: 'Anime Punch Simulator'
 description: 'Game For NexusHub.'
 pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder.jpg'
+heroImage: 'https://i.imgur.com/b5Bp5n7.png'
 categories: ['first']
 authors: ['gndx']
 tags: ['science', 'technology']
