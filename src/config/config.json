@@ -3,9 +3,9 @@
     "title": "NexusHub ",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
-    "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "favicon": "",
+    "logoLight": "",
+    "logoDark": "",
     "lang": "en",
     "description": "Website For All Of The Games Of NexusHub.",
     "pageSize": 6
